@@ -20,3 +20,9 @@ node_modules/
 
 # Ignore VS Code settings
 .vscode/
+chroma.sqlite3/
+
+SQL_chatbot/
+local_db.ipynb
+test.ipynb
+test.py
